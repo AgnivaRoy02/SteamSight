@@ -3,7 +3,7 @@
 **SteamSight** is a free Google Chrome extension that enhances and customizes your Steam wishlist by adding powerful filters and handy options.
 
 ## Features
-- **Filter games** by average playtime (from How Long To Beat), price on Eneba and more
+- **Filter games** by average playtime (from How Long To Beat), prices from various stores (via CheapShark), and more
 - **Sort your wishlist** according to your favourite criteria
 - **Visual customization** of your wishlist, making it easier to browse and organize
 
