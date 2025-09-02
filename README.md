@@ -1,5 +1,7 @@
 # SteamSight by Cesferort
 
+⚠️ **Note:** SteamSight is currently in development. Features may be incomplete or change frequently.
+
 **SteamSight** is a free Google Chrome extension that enhances and customizes your Steam wishlist by adding powerful filters and handy options.
 
 ## Features
